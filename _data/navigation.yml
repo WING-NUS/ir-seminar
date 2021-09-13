@@ -1,0 +1,32 @@
+# main links links
+main:
+#  - title: "Announcements"
+#    url: /year-archive/
+
+#  - title: "Schedule"
+#    url: /schedule/
+
+# was "grading"
+# NLP event: We don't have any past semester, hence comment off it. 
+  # - title: "Past Semesters"
+  #   url: /past-semesters/
+
+# was "projects"
+# Just remove the "people"
+  # - title: "People"
+  #   url: /people/
+    
+ # ADDNEW
+  # - title: "Projects"
+  #   url: /projects/
+
+# Min: 200122 - keep for now but comment out.
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+  - title: "Links"
+    url: /links/
+
+  - title: "Test"
+	url: /links/
+
