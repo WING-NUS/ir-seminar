@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WING NLP Seminar"
+title                    : "WING IR Seminar"
 title_separator          : "-"
-name                     : &name "WING NUS NLP Seminar"
+name                     : &name "WING NUS IR Seminar"
 description              : &description "Web IR / NLP Group (WING) @ NUS"
 url                      : https://wing-nus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : https://0.0.0.0
-baseurl                  : "/nlp-seminar" # the subpath of your site, e.g. "/blog"
-repository               : "wing-nus/nlp-seminar.github.io"
+baseurl                  : "/ir-seminar" # the subpath of your site, e.g. "/blog"
+repository               : "wing-nus/ir-seminar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "WING.NUS"
   avatar           : "wing.jpg"
-  bio              : "The NLP Seminar for the WING NUS Research Group"
+  bio              : "The IR Seminar for the WING NUS Research Group"
   location         : "Singapore"
   employer         : "NUS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
