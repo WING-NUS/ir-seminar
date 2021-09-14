@@ -5,7 +5,10 @@ permalink: /links/
 author_profile: true
 ---
 
-Other NLP Seminars:
+WING Seminars:
+1. WING NLP Seminars: <a href="https://wing-nus.github.io/nlp-semina/">https://nlp.stanford.edu/seminar/</a>
+
+Other Related Seminars:
 
 1. Stanford NLP Seminars:  <a href="https://nlp.stanford.edu/seminar/">https://nlp.stanford.edu/seminar/
 2. Berkeley NLP Seminars: <a href="https://nlp.berkeley.edu/">https://nlp.berkeley.edu/ 
