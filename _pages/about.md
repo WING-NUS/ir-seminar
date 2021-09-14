@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WING NUS Natural Language Processing (IR) Seminar"
+title: "WING NUS Information Retrieval (IR) Seminar"
 author_profile: true
 redirect_from:
   - /about/
