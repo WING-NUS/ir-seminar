@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WING NUS Information Retrieval (IR) Seminar"
+title: "WING NUS Information Retrieval (IR) and Knowledge Organisation (KO) Seminar"
 author_profile: true
 redirect_from:
   - /about/
