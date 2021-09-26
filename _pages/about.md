@@ -177,8 +177,8 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
  <A HREF="https://www.comp.nus.edu.sg/~kanmy/">Homepage</A><BR/>
 </div>
 
-<BR/>
-<BR/>
+<div></div>
+<div></div>
 <div class="tutor__profile">
   <img src="images/abhinav.jpg"/><BR/>
   <strong>Abhinav Ramesh Kashyap</strong>
@@ -201,7 +201,8 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 </div>
 
 
-<BR/>
+<div></div>
+<div></div>
 <div class="tutor__profile">
   <img src="images/hengchang.jpg"/><BR/>
   <strong>Hengchang Hu</strong>
