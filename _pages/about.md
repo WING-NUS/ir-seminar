@@ -21,10 +21,25 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <td><h2>1st RecSys Lecture (4th-9th Oct)</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>10:00 AM Sep 29th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
   <td>
+      <h1><a href="https://hongweiw.net/">Hongwei Wang</a> - Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
+      <strong>Hongwei is a Postdoctoral Researcher @University of Illinois Urbana-Champaign</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+      
+        <p>
+          [RECORDING TO BE PUBLISHED]
+        </p>
+
+        <p>
+          [SLIDES TO BE PUBLISHED]
+        </p>
+
+
       <!-- <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>: Understanding Event Processes in Natural Language</h1>
       <strong>Muhao is an Assistant Professor @ University of Southern California</strong> 
         <p>
@@ -162,11 +177,51 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
  <A HREF="https://www.comp.nus.edu.sg/~kanmy/">Homepage</A><BR/>
 </div>
 
+<br>
+
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
-  <strong>ADD</strong>
+  <img src="images/abhinav.jpg"/><BR/>
+  <strong>Abhinav Ramesh Kashyap</strong>
   <BR/>
- <A HREF="">Homepage</A><BR/>
+  <A HREF="https://abhinavkashyap.io/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/yajing.jpg"/><BR/>
+  <strong>Yajing Yang</strong>
+  <BR/>
+  <A HREF="#">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/yuxi.jpg"/><BR/>
+  <strong>Yuxi Xie</strong>
+  <BR/>
+  <A HREF="https://scholar.google.com/citations?user=LNLECx0AAAAJ">Homepage</A><BR/>
+</div>
+
+
+<br>
+<div class="tutor__profile">
+  <img src="images/hengchang.jpg"/><BR/>
+  <strong>Hengchang Hu</strong>
+  <BR/>
+  <A HREF="https://holdenhu.github.io/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/xinyuan.jpg"/><BR/>
+  <strong>Xinyuan Lu</strong>
+  <BR/>
+  <A HREF="https://github.com/XinyuanLu00">Homepage</A><BR/>
+</div>
+
+
+<div class="tutor__profile">
+  <img src="images/lichuang.jpg"/><BR/>
+  <strong>Chuang Li</strong>
+  <BR/>
+  <A HREF="https://lichuangnus.github.io/">Homepage</A><BR/>
 </div>
 
 </div>
