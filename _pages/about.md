@@ -201,8 +201,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 </div>
 
 
-<div></div>
-<div></div>
+
 <div class="tutor__profile">
   <img src="images/hengchang.jpg"/><BR/>
   <strong>Hengchang Hu</strong>
