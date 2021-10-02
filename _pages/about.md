@@ -31,28 +31,14 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
       
-        <p>
-          [RECORDING TO BE PUBLISHED]
-        </p>
-
-        <p>
-          [SLIDES TO BE PUBLISHED]
-        </p>
-
-
-      <!-- <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>: Understanding Event Processes in Natural Language</h1>
-      <strong>Muhao is an Assistant Professor @ University of Southern California</strong> 
-        <p>
-          [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
-        </p>
       
-        <p>
+<!--         <p>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </p>
+        </p> -->
 
         <p>
-        <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-        </p> -->
+         <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+        </p>
   </td>
 
   </tr>
