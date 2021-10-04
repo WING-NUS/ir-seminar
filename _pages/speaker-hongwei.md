@@ -16,11 +16,8 @@ He received Ph.D. degree from Department of Computer Science, Shanghai Jiao Tong
 
 ## Video Recording and Slides
 <tr>
-  <td><h2>10:00 AM Sep 29th SGT</h2>
-  </td>
-
   <td>
-      <h1><a href="https://hongweiw.net/">Hongwei Wang</a> - Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
+      <h1>Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
     
 <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
