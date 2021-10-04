@@ -17,8 +17,6 @@ He received Ph.D. degree from Department of Computer Science, Shanghai Jiao Tong
 ## Video Recording and Slides
 <tr>
   <td>
-      <h1>Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
-    
 <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
