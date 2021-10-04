@@ -15,6 +15,13 @@ Hongwei Wang is a postdoctoral researcher at Computer Science Department, Univer
 He received Ph.D. degree from Department of Computer Science, Shanghai Jiao Tong University in 2018, and B.E. degree from ACM Class, Shanghai Jiao Tong University in 2014. He was a postdoctoral researcher at Computer Science Department, Stanford University from 2019 to 2021. He was one of the recipients of 2020 CCF (China Computer Federation) Outstanding Doctoral Dissertation Award and 2018 Google Ph.D. Fellowship.
 
 ## Video Recording and Slides
+<tr>
+  <td><h2>10:00 AM Sep 29th SGT</h2>
+  </td>
+
+  <td>
+      <h1><a href="https://hongweiw.net/">Hongwei Wang</a> - Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
+    
 <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
@@ -23,3 +30,6 @@ He received Ph.D. degree from Department of Computer Science, Shanghai Jiao Tong
         <p>
          <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
         </p>
+  </td>
+
+  </tr>
