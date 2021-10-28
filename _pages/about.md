@@ -45,17 +45,17 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
   </tr>
 
 <tr>
-  <td><h2>2nd SciDoc Lecture (18th-23th Oct)<br /></h2>
+  <td><h2>2nd SciDoc Lecture (28th Oct)<br /></h2>
   </td>
 
   <td>
-        <!-- <h1><a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>: Natural Language Processing with Less Data and More Structures</h1>
-        <strong>Diyi is an Assistant Professor @ Georgia Institute of Technology</strong> 
+        <h1><a href="https://www.cs.ox.ac.uk/people/oana-maria.camburu/">Oana-Maria Camburu</a>: Neural Networks with Natural Language Explanations</h1>
+        <strong>Oana is a Postdoctoral Researcher @ the University of Oxford</strong> 
       <p>
-        [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
+        [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-oana">Speaker's Bio & Talk Overview</a>&nbsp;]
       </p>
         
-      <p>
+      <!-- <p>
       <script async class="speakerdeck-embed" data-id="7192c41df8194e3ea5b0ef3b1c678153" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
       </p> -->
 
