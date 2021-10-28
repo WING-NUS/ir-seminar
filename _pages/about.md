@@ -45,7 +45,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
   </tr>
 
 <tr>
-  <td><h2>2nd SciDoc Lecture (28th Oct)<br /></h2>
+  <td><h2>16:00 PM Oct 28th SGT<br/></h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
   <td>
