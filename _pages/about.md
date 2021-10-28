@@ -50,7 +50,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 
   <td>
         <h1><a href="https://www.cs.ox.ac.uk/people/oana-maria.camburu/">Oana-Maria Camburu</a>: Neural Networks with Natural Language Explanations</h1>
-        <strong>Oana is a Postdoctoral Researcher @ the University of Oxford</strong> 
+        <strong>Oana is a Postdoctoral Researcher @ University of Oxford</strong> 
       <p>
         [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-oana">Speaker's Bio & Talk Overview</a>&nbsp;]
       </p>
