@@ -20,6 +20,8 @@ author_profile: true
 Oana-Maria Camburu is a Postdoctoral Researcher in the Department of Computer Science at the University of Oxford, from where she also received her PhD on the thesis "Explaining Deep Neural Networks". For her work on explainability, Oana received a J.P. Morgan PhD Fellowship, as well as the role of co-investigator at the Alan Turing Institute in London on the project of "Neural Networks with Natural Language Explanations". Prior to this, Oana has obtained an MSc degree in Machine Learning and an Engineering degree from the Ecole Polytechnique, Paris.
 
 ## Video Recording and Slides
+
+**Video**
 <!-- <tr>
   <td>
 <p>
@@ -32,3 +34,5 @@ Oana-Maria Camburu is a Postdoctoral Researcher in the Department of Computer Sc
   </td>
 
   </tr> -->
+
+**Slides**: [link](https://drive.google.com/file/d/1HnrbLZKU86IcC-d9OuPPvyox4gG7qKWK/view?usp=sharing)
