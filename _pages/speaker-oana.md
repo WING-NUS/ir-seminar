@@ -22,6 +22,15 @@ Oana-Maria Camburu is a Postdoctoral Researcher in the Department of Computer Sc
 ## Video Recording and Slides
 
 **Video**
-
+<tr>
+  <td>
+    <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-bopzFou7jQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </p>
+    <p>
+      <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+    </p>
+  </td>
+</tr>
 
 **Slides**: [link](https://drive.google.com/file/d/1HnrbLZKU86IcC-d9OuPPvyox4gG7qKWK/view?usp=sharing)
