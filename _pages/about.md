@@ -54,6 +54,9 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
       <p>
         [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-oana">Speaker's Bio & Talk Overview</a>&nbsp;]
       </p>
+      <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-bopzFou7jQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </p>
         
       <!-- <p>
       <script async class="speakerdeck-embed" data-id="7192c41df8194e3ea5b0ef3b1c678153" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
