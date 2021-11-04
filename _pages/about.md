@@ -35,11 +35,9 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
-
-
-        <p>
-         <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-        </p>
+  <p>
+    <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
   </td>
 
   </tr>
@@ -57,10 +55,9 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
       <p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/-bopzFou7jQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
-        
-      <!-- <p>
-      <script async class="speakerdeck-embed" data-id="7192c41df8194e3ea5b0ef3b1c678153" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-      </p> -->
+      <p>
+      <script async class="speakerdeck-embed" data-id="10ed0f26ff934922b23779e03f0d1b70" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+      </p>
 
   </td>
 </tr>
