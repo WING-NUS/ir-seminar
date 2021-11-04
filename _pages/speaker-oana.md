@@ -21,7 +21,6 @@ Oana-Maria Camburu is a Postdoctoral Researcher in the Department of Computer Sc
 
 ## Video Recording and Slides
 
-**Video**
 <tr>
   <td>
     <p>
@@ -33,4 +32,4 @@ Oana-Maria Camburu is a Postdoctoral Researcher in the Department of Computer Sc
   </td>
 </tr>
 
-**Slides**: [link](https://drive.google.com/file/d/1HnrbLZKU86IcC-d9OuPPvyox4gG7qKWK/view?usp=sharing)
+<!-- **Slides**: [link](https://drive.google.com/file/d/1HnrbLZKU86IcC-d9OuPPvyox4gG7qKWK/view?usp=sharing) -->
