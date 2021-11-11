@@ -64,17 +64,20 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 
 
 <tr>
-  <td><h2>FewNLU</h2>
+  <td><h2>10:00 AM Nov 18th SGT<br/></h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
   <td>
-    <!-- <h1><a href="https://www.patricklewis.io/">Patrick Lewis</a>: PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them</h1>
-      <strong>Patrick Lewis is a PhD Student @ University College London and Facebook AI Research</strong> 
+    <h1><a href="https://zheng-yanan.github.io/">Yanan Zheng</a>: Revisiting Few-Shot learning for Natural Language Understanding</h1>
+      <strong>Yanan is a PostDoc Researcher @ Tsinghua University</strong> 
     <p>
-      [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-patrick">Speaker's Bio & Talk Overview</a>&nbsp;]
+      [&nbsp;<a href="https://wing-nus.github.io/ir-seminar-seminar/speaker-yanan">Speaker's Bio & Talk Overview</a>&nbsp;]
+    </p>
+    <p>
+      <img src="https://pbs.twimg.com/media/FD4k7oKVgAM0S4U?format=jpg&name=medium" style="width:560;height:315;">
     </p>
     
-    <p>
+<!--     <p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/qOwH2ZOIH0Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
 
