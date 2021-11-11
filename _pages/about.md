@@ -64,7 +64,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 
 
 <tr>
-  <td><h2>3rd RecSys Lecture (1th-6th Nov)</h2>
+  <td><h2>FewNLU</h2>
   </td>
 
   <td>
