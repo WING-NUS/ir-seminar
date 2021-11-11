@@ -71,7 +71,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
     <h1><a href="https://zheng-yanan.github.io/">Yanan Zheng</a>: Revisiting Few-Shot learning for Natural Language Understanding</h1>
       <strong>Yanan is a PostDoc Researcher @ Tsinghua University</strong> 
     <p>
-      [&nbsp;<a href="https://wing-nus.github.io/ir-seminar-seminar/speaker-yanan">Speaker's Bio & Talk Overview</a>&nbsp;]
+      [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-yanan">Speaker's Bio & Talk Overview</a>&nbsp;]
     </p>
     <p>
       <img src="https://pbs.twimg.com/media/FD4k7oKVgAM0S4U?format=jpg&name=medium" style="width:560;height:315;">
