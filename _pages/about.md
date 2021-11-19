@@ -80,7 +80,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
   </p>
 
   <p>
-      <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/45c50b2869224efab5c8904f270907b1" title="Revisiting Few-Shot learning for Natural Language Understanding" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+      <script async class="speakerdeck-embed" data-id="45c50b2869224efab5c8904f270907b1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
 
 
