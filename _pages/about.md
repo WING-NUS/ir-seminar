@@ -89,14 +89,14 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 
 
   <tr>
-  <td><h2>4th SciDoc Lecture (15th-20th Nov)<br/></h2>
+  <td><h2>10:00 AM Dec 22nd SGT<br/></h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
   <td>
-      <!-- <h1><a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>: Text Generation with No (Good) Data: New Reinforcement Learning and Causal Frameworks</h1>
-      <strong>Zhiting is an Assistant Professor @ UC San Diego</strong> 
+      <h1><a href="https://zhaoxyai.github.io/">Xiangyu Zhao</a>: Deep Reinforcement Learning for Recommender Systems</h1>
+      <strong>Xiangyu Zhao is an Assistant Professor @ City University of Hong Kong (CityU)</strong> 
 
       <p>
-        [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-zhiting">Speaker's Bio & Talk Overview</a>&nbsp;]
+        [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-xiangyu">Speaker's Bio & Talk Overview</a>&nbsp;]
         <br/></p> 
 
      <p>
@@ -105,19 +105,19 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
 
     <p>
      <script async class="speakerdeck-embed" data-id="0a88a0017d014c398b2e3cc52e47b578" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-    </p> -->
+    </p> 
   </td>
   </tr>
 
 
   <tr>
-  <td><h2>5th RecSys Lecture (29th Nov - 4th Dec)<br/></h2>
+  <td><h2>10:00 AM Dec 29th SGT<br/></h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
   <td>
-    <!-- <h1><a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>: Conversations as Knowledge: from Question Answering to Summarization</h1>
-      <strong>Jason is a Senior Research Scientist @ Salesforce AI Research</strong> 
+      <h1><a href="http://armancohan.com/">Arman Cohan</a>: Beyond Sentences and Paragraphs: Towards Document-level and Multi-document Understanding</h1>
+      <strong>Arman Cohan is a research scientist @ Allen Institute for AI (AI2) and an Affiliate Assistant Professor @ University of Washington(UW)</strong> 
 
-    <p>
+     <!--<p>
       [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jason">Speaker's Bio & Talk Overview</a>&nbsp;]
       <br/></p> 
 
