@@ -100,7 +100,7 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
         <br/></p> 
 
      <p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/rim-FhieEv0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/spx6Pocc104" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
 
     <p>
