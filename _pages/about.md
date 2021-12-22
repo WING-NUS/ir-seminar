@@ -117,11 +117,11 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
       <h1><a href="http://armancohan.com/">Arman Cohan</a>: Beyond Sentences and Paragraphs: Towards Document-level and Multi-document Understanding</h1>
       <strong>Arman Cohan is a research scientist @ Allen Institute for AI (AI2) and an Affiliate Assistant Professor @ University of Washington(UW)</strong> 
 
-     <!--<p>
-      [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jason">Speaker's Bio & Talk Overview</a>&nbsp;]
+     <p>
+      [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-arman">Speaker's Bio & Talk Overview</a>&nbsp;]
       <br/></p> 
 
-   <p>
+  <!--<p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/QxvnAnO9c-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
 
