@@ -21,7 +21,7 @@ Dr. Xiangyu Zhao is an assistant professor of the school of data science at City
 
 
         <p>
-         <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+         <script async class="speakerdeck-embed" data-id="303454fa7e27483082ac48437a5afc65" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
         </p>
   </td>
 
