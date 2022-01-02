@@ -121,13 +121,13 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
       [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-arman">Speaker's Bio & Talk Overview</a>&nbsp;]
       <br/></p> 
 
-  <!--<p>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/QxvnAnO9c-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/IMRgFS7GKB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
 
     <p>
-    <script async class="speakerdeck-embed" data-id="fb8f2652b3fb47d9a7d89af5f8ee57d4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-    </p> -->
+    <script async class="speakerdeck-embed" data-id="2c5d946dda764c84a8eb0646df004243" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+    </p> 
   </td>
   </tr>
 
