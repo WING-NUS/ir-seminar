@@ -130,28 +130,6 @@ In light of the success of the former <a href="https://wing-nus.github.io/nlp-se
     </p> 
   </td>
   </tr>
-
-  <tr>
-  <td><h2>6th SciDoc Lecture (13th-18th Dec)<br/></h2>
-  </td>
-  <td>
-        <!-- <h1><a href="https://www.mit.edu/~jda/">Jacob Andreas</a>: Implicit Representations of Meaning in Neural Language Models</h1>
-        <strong>Jacob is the X Consortium Assistant Professor @ Massachusetts Institute of Technology</strong>
-
-      <p>
-        [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jacob">Speaker's Bio & Talk Overview</a>&nbsp;]
-        <br/></p> 
-
-       <p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BHQBkN4PyPc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      </p>
-
-      <p>
-     <script async class="speakerdeck-embed" data-id="d3cc896072894123800a2467ab77adf9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-      </p> -->
-  </td>
-  </tr>
-
   
   <tr>
   </tr>
