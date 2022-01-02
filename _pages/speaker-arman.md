@@ -15,14 +15,14 @@ Arman Cohan is a Research Scientist at the Allen Institute for AI (AI2) and an A
 ## Video Recording and Slides
 <tr>
   <td>
-<!-- <p> 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <p> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IMRgFS7GKB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
 
 
         <p>
-         <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-        </p> -->
+          <script async class="speakerdeck-embed" data-id="2c5d946dda764c84a8eb0646df004243" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        </p> 
   </td>
 
   </tr>
