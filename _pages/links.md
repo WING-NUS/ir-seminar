@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 WING Seminars:
-1. WING NLP Seminars: <a href="https://wing-nus.github.io/nlp-semina/">https://nlp.stanford.edu/seminar/</a>
+1. WING NLP Seminars: <a href="https://wing-nus.github.io/nlp-seminar/">https://wing-nus.github.io/nlp-seminar/</a>
 
 Other Related Seminars:
 
