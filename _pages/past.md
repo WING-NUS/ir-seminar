@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /past/
 title: "WING NUS Information Retrieval (IR) and Knowledge Organisation (KO) Seminar"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /past.html
 ---
 In light of the success of the former <a href="https://wing-nus.github.io/nlp-seminar/"> NLP seminar </a> held by our group, we will be running our another IR seminar in 2021 autumn semester, tentatively from 8th Oct to 17th Dec (6 weeks). Invited speakers will talk about the latest breakthrough in their research. We will have six invited speakers, alternately introduce their research of recommender system and scientific document processing for each two week.
 

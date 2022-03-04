@@ -38,7 +38,7 @@ Our group will be running our recommendation system workshop in 2022 Spring, sta
   </p>
   </td> -->
 
-  </tr> -->
+  <!-- </tr> --> 
 </tbody></table>
 
 ## Organizing Team {#organizing}
