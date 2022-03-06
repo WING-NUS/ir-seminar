@@ -23,7 +23,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   
 <!-- ***************** Speaker 1 ************ -->
 <tr>
-  <td><h2>9:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>9:00-9:45 AM March 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -45,8 +45,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   
   <!-- ***************** Speaker 2 ************ -->
 <tr>
-  <td><h2>9:45 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
-  </td>
+  <td><h2>9:45-10:20 AM March 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2></td>
 
   <td>
       <h1><a href="https://lichuangnus.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
@@ -67,8 +66,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <!-- ***************** Speaker 3 ************ -->
 <tr>
-  <td><h2>10:20 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
-  </td>
+  <td><h2>10:20-10:50 AM March 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2> </td>
 
   <td>
       <h1><a href="https://www.linkedin.com/in/jiatong-han-06636419b/">Jiatong Han</a> - Application of Graph Embedding in Course Recommender Systems</h1>
@@ -89,15 +87,11 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   
    <!-- ***************** Pannel ************ -->
 <tr>
-  <td><h2>11:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
-  </td>
+  <td><h2>11:00-11:30 AM March 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2> </td>
 
   <td>
       <h1>Pannel</h1>
-      Topics will be discussed 
-        <p>
-          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Pannel Overview </a>&nbsp;]
-        </p>
+      Research related topics will be discussed.
 <!--
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -111,7 +105,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <!-- ***************** Speaker 4 ************ -->
 <tr>
-  <td><h2>8:00 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>8:00-8:40 AM March 9th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -125,7 +119,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <!-- ***************** Speaker 5 ************ -->
 <tr>
-  <td><h2>8:40 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>8:40-9:20 AM March 9th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -139,7 +133,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <!-- ***************** Speaker 6 ************ -->
 <tr>
-  <td><h2>9:20 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>9:20 AM March 9th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -153,7 +147,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <!-- ***************** Speaker 7 ************ -->
 <tr>
-  <td><h2>9:50 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>9:50 AM March 9th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -167,7 +161,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   
 <!-- ***************** Discussion ************ -->
 <tr>
-  <td><h2>11:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>11:00 AM March 9th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2>
   </td>
 
   <td>
@@ -190,7 +184,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 <!-- <div></div> -->
 <!-- <div></div> -->
 <div class="tutor__profile">
-  <img src="images/YanxiaQIN.JPG"/><BR/>
+  <img src="images/YanxiaQIN.jpg"/><BR/>
   <strong>Yanxia Qin</strong>
   <BR/>
   <A HREF="https://sites.google.com/site/qolina">Homepage</A><BR/>
