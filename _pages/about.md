@@ -62,12 +62,12 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
 <!-- <div></div> -->
 <!-- <div></div> -->
-<!-- <div class="tutor__profile">
+<div class="tutor__profile">
   <img src="images/hengchang.jpg"/><BR/>
   <strong>Hengchang Hu</strong>
   <BR/>
   <A HREF="">Homepage</A><BR/>
-</div> -->
+</div>
 
 
 
