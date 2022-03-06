@@ -72,7 +72,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
       <h1><a href="https://www.linkedin.com/in/jiatong-han-06636419b/">Jiatong Han</a> - Application of Graph Embedding in Course Recommender Systems</h1>
       <strong>Jiatong is an undergraduate student @ National University of Singapore</strong> 
         <p>
-          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-jiatong">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
 <!--
   <p>
@@ -126,7 +126,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
       <h1><a href="https://holdenhu.github.io/">Hengchang Hu</a> - Temporal-Aware Knowledge for Enhancing Sequential Preference Modeling</h1>
       <strong>Hengchang is a phD student of WING lab @ National University of Singapore</strong> 
         <p>
-          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hengchang">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
   </td>
   </tr>
@@ -140,7 +140,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
       <h1><a href="https://github.com/XinyuanLu00/">Xinyuan Lu</a> - Psychology-based Recommendation Systems</h1>
       <strong>Xinyuan is a phD student of WING lab @ National University of Singapore</strong> 
         <p>
-          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-xinyuan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
   </td>
   </tr>
@@ -154,7 +154,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
       <h1><a href="https://wing.comp.nus.edu.sg/people/www.linkedin.com/in/ran-yiding/">Yiding Ran</a> - Module Recommendation in Tertiary Education Institutions</h1>
       <strong>Yiding is an undergraduate student @ National University of Singapore</strong> 
         <p>
-          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-yiding">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
   </td>
   </tr>
