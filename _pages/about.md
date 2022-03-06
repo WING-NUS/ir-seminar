@@ -20,13 +20,13 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 <!-- Support Staff ********************************** 
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
-<!-- <tr>
-  <td><h2>10:00 AM Sep 29th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+<tr>
+  <td><h2>9:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
-  <!-- <td>
-      <h1><a href="https://hongweiw.net/">Hongwei Wang</a> - Graph Representation Learning: From Knowledge Graphs to Recommender Systems</h1>
-      <strong>Hongwei is a Postdoctoral Researcher @University of Illinois Urbana-Champaign</strong> 
+  <td>
+      <h1><a href="https://wenjiewwj.github.io/">Wenjie Wang</a> - Causal Representation Learning for Out-of-Distribution Recommendation</h1>
+      <strong>Wenjie is a phD student of LMS lab @National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -36,9 +36,9 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   <p>
     <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
-  </td> -->
+  </td>
 
-  <!-- </tr> --> 
+  </tr>
 </tbody></table>
 
 ## Organizing Team {#organizing}
@@ -54,7 +54,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 <!-- <div></div> -->
 <!-- <div></div> -->
 <div class="tutor__profile">
-  <img src="images/YanxiaQIN.jpg"/><BR/>
+  <img src="images/YanxiaQIN.JPG"/><BR/>
   <strong>Yanxia Qin</strong>
   <BR/>
   <A HREF="https://sites.google.com/site/qolina">Homepage</A><BR/>
