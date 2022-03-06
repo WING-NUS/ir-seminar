@@ -20,6 +20,8 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 <!-- Support Staff ********************************** 
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
+  
+<!-- ***************** Speaker 1 ************ -->
 <tr>
   <td><h2>9:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
@@ -30,15 +32,40 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
-<p>
+<!--
+  <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
   <p>
     <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
+-->
+  </td>
+  </tr>
+  
+  <!-- ***************** Speaker 2 ************ -->
+<tr>
+  <td><h2>9:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
+  <td>
+      <h1><a href="https://wenjiewwj.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
+      <strong>Victor is a phD student of WING lab @National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+<!--
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+-->
+  </td>
   </tr>
+  
+  
 </tbody></table>
 
 ## Organizing Team {#organizing}
