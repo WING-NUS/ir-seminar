@@ -45,12 +45,34 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   
   <!-- ***************** Speaker 2 ************ -->
 <tr>
-  <td><h2>9:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>9:45 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
   <td>
-      <h1><a href="https://wenjiewwj.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
-      <strong>Victor is a phD student of WING lab @National University of Singapore</strong> 
+      <h1><a href="https://lichuangnus.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
+      <strong>Victor is a phD student of WING lab @ National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+<!--
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+-->
+  </td>
+  </tr>
+
+  <!-- ***************** Speaker 3 ************ -->
+<tr>
+  <td><h2>10:20 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1><a href="https://www.linkedin.com/in/jiatong-han-06636419b/">Jiatong Han</a> - Application of Graph Embedding in Course Recommender Systems</h1>
+      <strong>Jiatong is an undergraduate student @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -65,6 +87,93 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   </td>
   </tr>
   
+   <!-- ***************** Pannel ************ -->
+<tr>
+  <td><h2>11:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1>Pannel</h1>
+      Topics will be discussed 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Pannel Overview </a>&nbsp;]
+        </p>
+<!--
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    <script async class="speakerdeck-embed" data-id="701ed3acf1cf49399289c25261c421f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+-->
+  </td>
+  </tr>
+
+  <!-- ***************** Speaker 4 ************ -->
+<tr>
+  <td><h2>8:00 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1><a href="https://www.linkedin.com/in/yunshan-ma-0b2b27139/">Yunshan Ma</a> - SimCBR: Simple Contrastive Learning for Bundle Recommendation</h1>
+      <strong>Yunshan is a phD student of LMS lab @ National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+  </td>
+  </tr>
+
+  <!-- ***************** Speaker 5 ************ -->
+<tr>
+  <td><h2>8:40 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1><a href="https://holdenhu.github.io/">Hengchang Hu</a> - Temporal-Aware Knowledge for Enhancing Sequential Preference Modeling</h1>
+      <strong>Hengchang is a phD student of WING lab @ National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+  </td>
+  </tr>
+
+  <!-- ***************** Speaker 6 ************ -->
+<tr>
+  <td><h2>9:20 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1><a href="https://github.com/XinyuanLu00/">Xinyuan Lu</a> - Psychology-based Recommendation Systems</h1>
+      <strong>Xinyuan is a phD student of WING lab @ National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+  </td>
+  </tr>
+
+  <!-- ***************** Speaker 7 ************ -->
+<tr>
+  <td><h2>9:50 AM March 9th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1><a href="https://wing.comp.nus.edu.sg/people/www.linkedin.com/in/ran-yiding/">Yiding Ran</a> - Module Recommendation in Tertiary Education Institutions</h1>
+      <strong>Yiding is an undergraduate student @ National University of Singapore</strong> 
+        <p>
+          [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hongwei">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+  </td>
+  </tr>
+  
+<!-- ***************** Discussion ************ -->
+<tr>
+  <td><h2>11:00 AM March 8th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+      <h1>Discussion</h1>
+  </td>
+  </tr>
   
 </tbody></table>
 
