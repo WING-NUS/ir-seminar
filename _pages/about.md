@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our group will be running our recommendation system workshop in 2022 Spring, starting from March 8. 
+Our group will be running a recommendation system workshop at March 8-9. Invited speakers will talk about their recent work in recommendation system. 
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg```.
 
@@ -54,12 +54,14 @@ Our group will be running our recommendation system workshop in 2022 Spring, sta
 <!-- <div></div> -->
 <!-- <div></div> -->
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/YanxiaQIN.jpg"/><BR/>
   <strong>Yanxia Qin</strong>
   <BR/>
-  <A HREF="">Homepage</A><BR/>
+  <A HREF="https://sites.google.com/site/qolina">Homepage</A><BR/>
 </div>
 
+<!-- <div></div> -->
+<!-- <div></div> -->
 <!-- <div class="tutor__profile">
   <img src="images/hengchang.jpg"/><BR/>
   <strong>Hengchang Hu</strong>
