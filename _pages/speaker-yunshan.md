@@ -13,3 +13,4 @@ In this work, we seek a simple yet effective solution to alleviate these problem
 
 ## Bio:
 
+Ma Yunshan (http://yunshan.me/) is a postdoctoral research fellow in NExT++ Research Center, School of Computing, NUS, advised by Prof Chua Tat-Seng. His research interests include multimedia analysis, recommender system, and the associate various applications in fashion analysis. He has recently completed his Ph.D. in school of computing from NUS, 2022, and received his BEng in BUPT, 2015.
