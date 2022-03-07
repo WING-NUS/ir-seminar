@@ -28,7 +28,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <td>
       <h1><a href="https://wenjiewwj.github.io/">Wenjie Wang</a> - Causal Representation Learning for Out-of-Distribution Recommendation</h1>
-      <strong>Wenjie is a phD student of LMS lab @National University of Singapore</strong> 
+      <strong>Wenjie is a phD student of LMS lab @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-wenjie">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -110,7 +110,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <td>
       <h1><a href="https://www.linkedin.com/in/yunshan-ma-0b2b27139/">Yunshan Ma</a> - SimCBR: Simple Contrastive Learning for Bundle Recommendation</h1>
-      <strong>Yunshan is a phD student of LMS lab @ National University of Singapore</strong> 
+      <strong>Yunshan is a research fellow of NExT++ Research Center @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-yunshan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
