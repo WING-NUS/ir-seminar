@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our group will be running a recommendation system workshop at March 8-9. Invited speakers will talk about their recent work in recommendation system. 
+Our group will be running a local recommendation system workshop on 8–9 March 2022. Invited speakers will discuss their recent work in recommendation systems research. 
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg```.
 
@@ -28,7 +28,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <td>
       <h1><a href="https://wenjiewwj.github.io/">Wenjie Wang</a> - Causal Representation Learning for Out-of-Distribution Recommendation</h1>
-      <strong>Wenjie is a phD student of LMS lab @ National University of Singapore</strong> 
+      <strong>Wenjie is a Ph.D. student of the LMS lab @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-wenjie">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -49,7 +49,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <td>
       <h1><a href="https://lichuangnus.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
-      <strong>Victor is a phD student of WING lab @ National University of Singapore</strong> 
+      <strong>Victor is a Ph.D. student of WING @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-victor">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -70,7 +70,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
 
   <td>
       <h1><a href="https://www.linkedin.com/in/jiatong-han-06636419b/">Jiatong Han</a> - Application of Graph Embedding in Course Recommender Systems</h1>
-      <strong>Jiatong is an undergraduate student @ National University of Singapore</strong> 
+      <strong>Jiatong is an undergraduate student of WING @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-jiatong">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -90,7 +90,7 @@ Our group will be running a recommendation system workshop at March 8-9. Invited
   <td><h2>11:00-11:30 AM Mar 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2> </td>
 
   <td>
-      <h1>Pannel</h1>
+      <h1>Panel</h1>
       Research related topics will be discussed.
 <!--
   <p>
