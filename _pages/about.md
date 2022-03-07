@@ -57,7 +57,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-victor">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
-    
+        <p>
+          <img src="images/victor-thumbnail.png"/>
+        </p>
 <!--
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -162,7 +164,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-xinyuan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
-    
+        <p>
+          <img src="images/xinyuan-thumbnail.png"/>
+        </p>
   </td>
   </tr>
 
