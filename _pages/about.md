@@ -49,7 +49,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
   <td><h2>9:45-10:20 AM Mar 8th <a href="https://www.timeanddate.com/time/zones/sgt">SGT</a></h2></td>
 
   <td>
-      <h1><a href="https://lichuangnus.github.io/">Victor Li</a> - Introduction of Research in CVS</h1>
+      <h1><a href="https://lichuangnus.github.io/">Victor Li</a> - Introduction of Research in CRS</h1>
       <strong>Victor is a Ph.D. student of WING @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-victor">Speaker's Bio & Talk Overview </a>&nbsp;]
