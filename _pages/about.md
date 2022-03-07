@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our group will be running a local recommendation system workshop on 8–9 March 2022. Invited speakers will discuss their recent work in recommendation systems research. 
+Our group will be running a local recommendation system workshop on 8–9 March 2022. Invited speakers will discuss their recent work in recommendation systems research. For interested parties, please contact the speaker for details of their talks.
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg```.
 
@@ -124,7 +124,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
 
   <td>
       <h1><a href="https://holdenhu.github.io/">Hengchang Hu</a> - Temporal-Aware Knowledge for Enhancing Sequential Preference Modeling</h1>
-      <strong>Hengchang is a phD student of WING lab @ National University of Singapore</strong> 
+      <strong>Hengchang is a Ph.D. student of WING lab @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hengchang">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
@@ -138,7 +138,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
 
   <td>
       <h1><a href="https://github.com/XinyuanLu00/">Xinyuan Lu</a> - Psychology-based Recommendation Systems</h1>
-      <strong>Xinyuan is a phD student of WING lab @ National University of Singapore</strong> 
+      <strong>Xinyuan is a Ph.D. student of WING lab @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-xinyuan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
