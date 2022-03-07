@@ -14,6 +14,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
 
 <!-- **The schedule below is preliminary (last updated 15th May 2021)**. We may make slight changes on the timing and talk details. --> 
 
+### 8 Mar 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="70%">Description</th></tr></thead>
 <tbody>
@@ -102,6 +103,12 @@ Our group will be running a local recommendation system workshop on 8–9 March 
 -->
   </td>
   </tr>
+</tbody></table>
+
+### 9 Mar
+<table class="table table-striped">
+<thead class="thead-inverse"><tr><th>Date</th><th width="70%">Description</th></tr></thead>
+<tbody>
 
   <!-- ***************** Speaker 4 ************ -->
 <tr>
