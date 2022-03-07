@@ -33,6 +33,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-wenjie">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
+        <p>
+          <img src="images/wenjie-thumbnail.png"/>
+        </p>
 <!--
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
