@@ -57,6 +57,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-victor">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
+    
 <!--
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fC8HfepCDgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -77,6 +78,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
       <strong>Jiatong is an undergraduate student of WING @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-jiatong">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+        <p>
+          <img src="images/jiatong-thumbnail.png"/>
         </p>
 <!--
   <p>
@@ -124,6 +128,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-yunshan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
+        <p>
+          <img src="images/yunshan-thumbnail.png"/>
+        </p>
   </td>
   </tr>
 
@@ -137,6 +144,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
       <strong>Hengchang is a Ph.D. student of WING lab @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-hengchang">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+        <p>
+          <img src="images/hengchang-thumbnail.png"/>
         </p>
   </td>
   </tr>
@@ -152,6 +162,7 @@ Our group will be running a local recommendation system workshop on 8–9 March 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-xinyuan">Speaker's Bio & Talk Overview </a>&nbsp;]
         </p>
+    
   </td>
   </tr>
 
@@ -165,6 +176,9 @@ Our group will be running a local recommendation system workshop on 8–9 March 
       <strong>Yiding is an undergraduate student @ National University of Singapore</strong> 
         <p>
           [&nbsp;<a href="https://wing-nus.github.io/ir-seminar/speaker-yiding">Speaker's Bio & Talk Overview </a>&nbsp;]
+        </p>
+        <p>
+          <img src="images/yiding-thumbnail.png"/>
         </p>
   </td>
   </tr>
